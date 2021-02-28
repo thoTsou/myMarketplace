@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "5ff078dc529dd93db07c56e2"
+  },
+  "name": "OnePlus 7 Pro (Almond, 256 GB)",
+  "smallDescr": "Rear Camera|48MP (Primary)+ 8MP (Tele-photo)+16MP (ultrawide)| Front Camera|16 MP POP-UP Camera|8GB RAM|Android pie",
+  "price": 430,
+  "photo": "./pics/phone1.jpg",
+  "rating": 4,
+  "comments": [
+    {
+      "comment": "another comment",
+      "rating": "5",
+      "username": "maria"
+    },
+    {
+      "comment": "not good product",
+      "rating": "2",
+      "username": "guest"
+    },
+    {
+      "comment": "excellent Product",
+      "rating": "5",
+      "username": "anotherUser"
+    }
+  ],
+  "availability": [
+    {
+      "partnerName": "Public",
+      "inStock": 1500,
+      "price": 430,
+      "yes/no": "In Stock"
+    },
+    {
+      "partnerName": "Media Markt",
+      "inStock": 3000,
+      "price": 440,
+      "yes/no": "In Stock"
+    }
+  ],
+  "category": "mobilePhone"
+},{
+  "_id": {
+    "$oid": "600c667372e4d22ca8f2b340"
+  },
+  "name": "Apple iPhone XR (Red, 128 GB)",
+  "smallDescr": "128 GB ROM | 15.49 cm (6.1 inch) Display 12MP Rear Camera | 7MP Front Camera A12 Bionic Chip Processor",
+  "price": 500,
+  "photo": "./pics/phone2.jpg",
+  "rating": 4,
+  "comments": [
+    {
+      "comment": "another comment",
+      "rating": "5",
+      "username": "maria"
+    },
+    {
+      "comment": "not good product",
+      "rating": "2",
+      "username": "guest"
+    },
+    {
+      "comment": "AMAZING !!",
+      "rating": "5",
+      "username": "tho_tsou"
+    }
+  ],
+  "availability": [
+    {
+      "partnerName": "Public",
+      "inStock": 1500,
+      "price": 500,
+      "yes/no": "In Stock"
+    },
+    {
+      "partnerName": "Media Markt",
+      "inStock": 3000,
+      "price": 510,
+      "yes/no": "In Stock"
+    }
+  ],
+  "category": "mobilePhone"
+},{
+  "_id": {
+    "$oid": "6027b090a5c1651f3cf0be0e"
+  },
+  "name": "Dell G7 7700 (i9-10885H/16GB/1TB/GeForce RTX 2070 Super /FHD 300Hz/W10)",
+  "smallDescr": "Gaming, 17.3\" 1920x1080, CPU: Intel Core i9 2.4GHz, RAM: 16GB, 1TB SSD, Windows 10, Manufacturer: Dell",
+  "price": 3008.58,
+  "photo": "./pics/dellLaptop.jpeg",
+  "rating": 4,
+  "comments": [
+    {
+      "comment": "excellent Choice , working great",
+      "rating": "5",
+      "username": "tho_tsou"
+    },
+    {
+      "comment": "",
+      "rating": "3",
+      "username": "guest"
+    }
+  ],
+  "availability": [
+    {
+      "partnerName": "Kotsovolos",
+      "inStock": 1500,
+      "price": 3008.58,
+      "yes/no": "In Stock"
+    },
+    {
+      "partnerName": "Media Markt",
+      "inStock": 3000,
+      "price": 3014.99,
+      "yes/no": "In Stock"
+    }
+  ],
+  "category": "laptop"
+},{
+  "_id": {
+    "$oid": "6027c09c2db4bf2f28acf58b"
+  },
+  "name": "Apple MacBook Pro 16\" (i9-9880H/16GB/1TB/Radeon Pro 5500M) with Touchbar (2019) Space Gray",
+  "smallDescr": "Designed for those who defy limits and change the world, the 16-inch MacBook Pro is by far the most powerful notebook we have ever made. With an immersive Retina display, superfast processors, advanced graphics, the largest battery capacity ever in a MacBook Pro, Magic Keyboard, and massive storage, it's the ultimate pro notebook for the ultimate user.",
+  "price": 3183,
+  "photo": "./pics/appleLaptop.jpeg",
+  "rating": 2,
+  "comments": [
+    {
+      "comment": "not recommended",
+      "rating": "2",
+      "username": "guest"
+    }
+  ],
+  "availability": [
+    {
+      "partnerName": "Public",
+      "inStock": 1500,
+      "price": 3183,
+      "yes/no": "In Stock"
+    },
+    {
+      "partnerName": "Media Markt",
+      "inStock": 3000,
+      "price": 3198,
+      "yes/no": "In Stock"
+    }
+  ],
+  "category": "laptop"
+}]

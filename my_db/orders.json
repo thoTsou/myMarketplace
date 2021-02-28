@@ -1,0 +1,377 @@
+[{
+  "_id": {
+    "$oid": "5ff06e4ac2410000bf003e93"
+  },
+  "fullName": "guest",
+  "address": "g",
+  "city": "g",
+  "region": "g",
+  "postcode": "g",
+  "email": "g@wde3",
+  "phoneNumber": "g",
+  "products": [
+    {
+      "productId": "5fe73bd7f9ded29f9cd47d5f",
+      "price": "500",
+      "quantity": "3"
+    }
+  ],
+  "date": {
+    "$date": "2021-01-02T12:59:54Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff07161c2410000bf003e95"
+  },
+  "fullName": "testGuest",
+  "address": "h",
+  "city": "h",
+  "region": "h",
+  "postcode": "h",
+  "email": "cd@ew",
+  "phoneNumber": "wev",
+  "products": [
+    {
+      "productId": "5fe73bd7f9ded29f9cd47d5f",
+      "price": "550",
+      "quantity": "3"
+    }
+  ],
+  "date": {
+    "$date": "2021-01-02T13:13:05Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff089dbc2410000bf003e96"
+  },
+  "fullName": "edth",
+  "address": "jh",
+  "city": "h",
+  "region": "h",
+  "postcode": "h",
+  "email": "hh@e2f",
+  "phoneNumber": "h",
+  "products": [
+    {
+      "productId": "5fe73bd7f9ded29f9cd47d5f",
+      "price": "500",
+      "quantity": "2"
+    },
+    {
+      "productId": "5ff078dc529dd93db07c56e2",
+      "price": "430",
+      "quantity": "1"
+    }
+  ],
+  "date": {
+    "$date": "2021-01-02T14:57:31Z"
+  }
+},{
+  "_id": {
+    "$oid": "5ff0ae332c6900005e0036e3"
+  },
+  "fullName": "grigoris dimitriou",
+  "address": "a",
+  "city": "a",
+  "region": "a",
+  "postcode": "a",
+  "email": "a@d",
+  "phoneNumber": "fff",
+  "products": [
+    {
+      "productId": "5fe73bd7f9ded29f9cd47d5f",
+      "price": "500",
+      "quantity": "1"
+    },
+    {
+      "productId": "5ff078dc529dd93db07c56e2",
+      "price": "440",
+      "quantity": "2"
+    }
+  ],
+  "date": {
+    "$date": "2021-01-02T17:32:35Z"
+  }
+},{
+  "_id": {
+    "$oid": "600c66e54b700000e3003ed4"
+  },
+  "fullName": "maria",
+  "address": "test",
+  "city": "Athens",
+  "region": "region",
+  "postcode": "12345",
+  "email": "maria@maria",
+  "phoneNumber": "6999999999",
+  "products": [
+    {
+      "productId": "600c667372e4d22ca8f2b340",
+      "price": "500",
+      "quantity": "1"
+    },
+    {
+      "productId": "5ff078dc529dd93db07c56e2",
+      "price": "440",
+      "quantity": "1"
+    }
+  ],
+  "date": {
+    "$date": "2021-01-23T18:11:49Z"
+  }
+},{
+  "_id": {
+    "$oid": "600c72814b700000e3003ed6"
+  },
+  "fullName": "theodore tsoufis",
+  "address": "tsoufisAddress",
+  "city": "Athens",
+  "region": "region",
+  "postcode": "12345",
+  "email": "tsoufis.thodoris@gmail.com",
+  "phoneNumber": "6999999999",
+  "products": [
+    {
+      "productId": "600c667372e4d22ca8f2b340",
+      "price": "500",
+      "quantity": "3"
+    }
+  ],
+  "date": {
+    "$date": "2021-01-23T19:01:21Z"
+  }
+},{
+  "_id": {
+    "$oid": "600c72eb4b700000e3003ed7"
+  },
+  "fullName": "maria",
+  "address": "test",
+  "city": "Athens",
+  "region": "region",
+  "postcode": "12345",
+  "email": "maria@gmail.com",
+  "phoneNumber": "6999999999",
+  "products": [
+    {
+      "productId": "5ff078dc529dd93db07c56e2",
+      "price": "430",
+      "quantity": "2"
+    },
+    {
+      "productId": "600c667372e4d22ca8f2b340",
+      "price": "500",
+      "quantity": "4"
+    }
+  ],
+  "date": {
+    "$date": "2021-01-23T19:03:07Z"
+  }
+},{
+  "_id": {
+    "$oid": "6023e9fcd8330000e6000aa5"
+  },
+  "fullName": "an]",
+  "address": "tsoufisAddress",
+  "city": "Athens",
+  "region": "region",
+  "postcode": "12345",
+  "email": "anotherUser@gmail.com",
+  "phoneNumber": "6999999999",
+  "products": [
+    {
+      "productId": "600c667372e4d22ca8f2b340",
+      "price": "500",
+      "quantity": "3"
+    }
+  ],
+  "date": {
+    "$date": "2021-02-10T14:13:16Z"
+  }
+},{
+  "_id": {
+    "$oid": "6023eab2d8330000e6000aa6"
+  },
+  "fullName": "anotherguest",
+  "address": "tsoufisAddress",
+  "city": "Athens",
+  "region": "region",
+  "postcode": "12345",
+  "email": "guest@gmail.com",
+  "phoneNumber": "6999999999",
+  "products": [
+    {
+      "productId": "5ff078dc529dd93db07c56e2",
+      "price": "430",
+      "quantity": "2"
+    }
+  ],
+  "date": {
+    "$date": "2021-02-10T14:16:18Z"
+  }
+},{
+  "_id": {
+    "$oid": "602523a7937f0000e8007bca"
+  },
+  "fullName": "anotherguest",
+  "address": "tsoufisAddress",
+  "city": "Athens",
+  "region": "region",
+  "postcode": "12345",
+  "email": "guest@gmail.com",
+  "phoneNumber": "6999999999",
+  "products": [
+    {
+      "productId": "600c667372e4d22ca8f2b340",
+      "price": "510",
+      "quantity": "4"
+    },
+    {
+      "productId": "600c667372e4d22ca8f2b340",
+      "price": "510",
+      "quantity": "3"
+    }
+  ],
+  "date": {
+    "$date": "2021-02-11T12:31:35Z"
+  }
+},{
+  "_id": {
+    "$oid": "6025a2989b20000018004623"
+  },
+  "fullName": "anotherguest",
+  "address": "tsoufisAddress",
+  "city": "Athens",
+  "region": "region",
+  "postcode": "12345",
+  "email": "anotherUser@gmail.com",
+  "phoneNumber": "6999999999",
+  "products": [
+    {
+      "productId": "600c667372e4d22ca8f2b340",
+      "price": "500",
+      "quantity": "1"
+    },
+    {
+      "productId": "5ff078dc529dd93db07c56e2",
+      "price": "430",
+      "quantity": "1"
+    }
+  ],
+  "date": {
+    "$date": "2021-02-11T21:33:12Z"
+  }
+},{
+  "_id": {
+    "$oid": "6025a4069b20000018004624"
+  },
+  "fullName": "theodore tsoufis",
+  "address": "tsoufisAddress",
+  "city": "Athens",
+  "region": "region",
+  "postcode": "12345",
+  "email": "tsoufis.thodoris@gmail.com",
+  "phoneNumber": "6999999999",
+  "products": [
+    {
+      "productId": "600c667372e4d22ca8f2b340",
+      "price": "500",
+      "quantity": "1"
+    },
+    {
+      "productId": "5ff078dc529dd93db07c56e2",
+      "price": "440",
+      "quantity": "1"
+    }
+  ],
+  "date": {
+    "$date": "2021-02-11T21:39:18Z"
+  }
+},{
+  "_id": {
+    "$oid": "6027c40350650000490025a3"
+  },
+  "fullName": "anotherguest",
+  "address": "tsoufisAddress",
+  "city": "Athens",
+  "region": "region",
+  "postcode": "12345",
+  "email": "user@user",
+  "phoneNumber": "6999999999",
+  "products": [
+    {
+      "productId": "6027c09c2db4bf2f28acf58b",
+      "price": "3198",
+      "quantity": "1"
+    }
+  ],
+  "date": {
+    "$date": "2021-02-13T12:20:19Z"
+  }
+},{
+  "_id": {
+    "$oid": "6027c8e450650000490025a4"
+  },
+  "fullName": "anotherguest",
+  "address": "tsoufisAddress",
+  "city": "Athens",
+  "region": "region",
+  "postcode": "12345",
+  "email": "an@gmail.com",
+  "phoneNumber": "6999999999",
+  "products": [
+    {
+      "productId": "6027c09c2db4bf2f28acf58b",
+      "price": "3183",
+      "quantity": "1"
+    },
+    {
+      "productId": "600c667372e4d22ca8f2b340",
+      "price": "500",
+      "quantity": "1"
+    }
+  ],
+  "date": {
+    "$date": "2021-02-13T12:41:08Z"
+  }
+},{
+  "_id": {
+    "$oid": "6027c96250650000490025a5"
+  },
+  "fullName": "maria",
+  "address": "test",
+  "city": "Athens",
+  "region": "region",
+  "postcode": "12345",
+  "email": "maria@gmail.com",
+  "phoneNumber": "6999999999",
+  "products": [
+    {
+      "productId": "6027b090a5c1651f3cf0be0e",
+      "price": "3014.99",
+      "quantity": "3"
+    }
+  ],
+  "date": {
+    "$date": "2021-02-13T12:43:14Z"
+  }
+},{
+  "_id": {
+    "$oid": "6027ed9950650000490025a9"
+  },
+  "fullName": "Μαριάνα Ραυτοπούλου",
+  "address": "Μάρκου Μπότσαρη",
+  "city": "Θεσσαλονίκη",
+  "region": "Θεσσαλονίκης",
+  "postcode": "54643",
+  "email": "marianaroxani@gmail.com",
+  "phoneNumber": "6970575593",
+  "products": [
+    {
+      "productId": "600c667372e4d22ca8f2b340",
+      "price": "500",
+      "quantity": "1"
+    }
+  ],
+  "date": {
+    "$date": "2021-02-13T15:17:45Z"
+  }
+}]

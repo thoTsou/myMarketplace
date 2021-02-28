@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "5fef1a42801f0000eb001914"
+  },
+  "newsletterMember": "testMember@hotmail.com"
+},{
+  "_id": {
+    "$oid": "6023af7ad8330000e6000aa2"
+  },
+  "newsletterMember": "newSubscriber@gmail.com"
+},{
+  "_id": {
+    "$oid": "6027ece650650000490025a7"
+  },
+  "newsletterMember": "marianaroxani@gmail.com"
+}]

@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "5fedd71b5385d953b253ce10"
+  },
+  "name": "Public",
+  "photo": "./pics/public.png",
+  "comments": [
+    {
+      "comment": "testCom",
+      "rating": "1",
+      "username": "tho_tsou"
+    },
+    {
+      "comment": "test",
+      "rating": "3",
+      "username": "guest_guest"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fedd7255385d953b253ce11"
+  },
+  "name": "Media Markt",
+  "photo": "./pics/media.png",
+  "comments": [
+    {
+      "comment": "another comment",
+      "rating": "5",
+      "username": "tho_tsou"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fedd8dd5385d953b253ce12"
+  },
+  "name": "Kotsovolos",
+  "photo": "./pics/kotso.png",
+  "comments": []
+}]

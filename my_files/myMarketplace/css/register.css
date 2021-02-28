@@ -1,0 +1,13 @@
+body{
+    padding:3%;
+}
+
+button[type=submit]{
+    background-color: #6ab446;
+    border-color: #6ab446;
+}
+
+button[type=submit]:hover{
+    background-color: grey;
+    border-color: grey;
+}

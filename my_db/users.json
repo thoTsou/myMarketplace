@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "5fe71260c7200000f2000f15"
+  },
+  "username": "tho_tsou",
+  "email": "tsoufis.thodoris@gmail.com",
+  "password": "testpass",
+  "fullName": "Θοδωρης Τσουφης"
+},{
+  "_id": {
+    "$oid": "5fe71596c7200000f2000f16"
+  },
+  "username": "maria",
+  "email": "maria@gmail.com",
+  "password": "maria123",
+  "fullName": "maria dimitriou"
+},{
+  "_id": {
+    "$oid": "6023b576d8330000e6000aa4"
+  },
+  "username": "anotherUser",
+  "email": "anotherUser@gmail.com",
+  "password": "anotherUser",
+  "fullName": "another User"
+}]
